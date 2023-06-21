@@ -1,0 +1,26 @@
+[
+  {
+    "category": "food",
+    "name": "cheese",
+    "price": "2",
+    "flavour": "savoury"
+  },
+  {
+    "category": "food",
+    "name": "raspberry",
+    "price": "3",
+    "flavour": "sweet"
+  },
+  {
+    "category": "drink",
+    "name": "orange juice",
+    "price": "1",
+    "flavour": "sweet"
+  },
+  {
+    "category": "drink",
+    "name": "milk",
+    "price": "1",
+    "flavour": "sweet"
+  }
+]

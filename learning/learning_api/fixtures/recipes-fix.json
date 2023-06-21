@@ -1,0 +1,20 @@
+[
+  {
+    "model": "learning_api.recipe",
+    "pk": 1,
+    "fields": {
+      "name": "raspberry pudding",
+      "ingredient1": ["raspberry"],
+      "ingredient2": ["milk"]
+    }
+  },
+  {
+    "model": "learning_api.recipe",
+    "pk": 2,
+    "fields": {
+      "name": "cheesecake",
+      "ingredient1": ["cheese"],
+      "ingredient2": ["milk"]
+    }
+  }
+]
